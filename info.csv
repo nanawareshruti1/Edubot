@@ -1,0 +1,200 @@
+Name,Rank,Address,Special_Code,Website
+Carnegie Mellon University,1,Petersburg-PA,MS-F,http://www.cmu.edu/
+Massachusetts Institute of Technology,2,Cambridge-MA,MS-F,http://www.mit.edu/
+Stanford University,3,Stanford-CA,MS-F,http://www.stanford.edu/
+University of California--Berkeley,4,Berkeley-CA,MS-F,http://www.berkeley.edu/
+Cornell University,5,Ithaca-NY,MS-F,http://www.cornell.edu/
+IIT Delhi,1,Delhi,MS-I,http://www.iitd.ernet.in/
+IIT Roorkee,2,Roorkee,MS-I,http://www.iitr.ac.in/
+IIT Bombay,3,Mumbai,MS-I,http://www.iitb.ac.in/
+IIT Madras,4,Madras,MS-I,http://www.iitm.ac.in/
+IISC Banglore,5,Banglore,MS-I,http://www.iisc.ernet.in/
+IIM Calcutta: Indian Institute of Management,1,Kolkata,MBA-I,http://www.caluniv.ac.in/
+"Indian Institute of Management, Tiruchirappalli",2,Tiruchirappalli,MBA-I,http://www.iimtrichy.ac.in/
+Indian Institute of Information Technology and Management - Kerala,3,Kerala,MBA-I,http://www.iiitmk.ac.in/
+Kalinga University,4,Bhubaneshwar,MBA-I,http://www.kalingauniversity.com/
+Jaipur National University,5,Jaipur,MBA-I,http://www.jnujaipur.ac.in/
+Stanford Graduate School Of Business,1,Stanford-CA,MBA-F,http://standford-university.edu.tf/
+Penn(Wharton),2,Philadelphia-PA,MBA-F,http://www.upenn.edu/
+MIT(Sloan),3,Cambridge-MA,MBA-F,http://www.mit.edu/
+Harvad Business School,4, Boston-MA,MBA-F,http://www.harvard.edu/
+Illinois Benedictine University,5,US,MBA-F,http://www.ben.edu/
+Harvad University,1,United States,MBBS-F,http://www.harvard.edu/
+University Of Oxford,2,United Kingdom,MBBS-F,http://www.ox.ac.uk/
+University Of Cambridge,3,United Kingdom,MBBS-F,http://www.cam.ac.uk/
+University Of Stanford,4,United States,MBBS-F,http://www.stanford.edu/
+John Honkins University,5,United States,MBBS-F,http://www.jhu.edu/
+AIIMS,1,New Delhi,MBBS-I,http://www.aiims.ac.in/
+Postgraduate Institute of Medical Education and Research,2,Chandigarh,MBBS-I,http://www.pgimer.nic.in/
+Christian Medical College,3,Vellore,MBBS-I,http://www.christuniversity.in/
+BHU - Banaras Hindu University,4,Varanasi,MBBS-I,http://www.bhu.ac.in/
+Nizams Institute of Medical Sciences,5,Hyderabad,MBBS-I,http://nims.ap.nic.in/
+Harvad University,1,US,LAW-F,http://www.harvard.edu/
+University Of Oxford,2,UK,LAW-F,http://www.ox.ac.uk/
+University Of Cambridge,3,UK,LAW-F,http://www.cam.ac.uk/
+Yale University,4,US,LAW-F,http://www.yale.edu/
+Stanford University,5,US,LAW-F,http://www.stanford.edu/
+NLSIU Banglore,1,Banglore,LAW-I,http://www.nls.ac.in/
+NLU Delhi,2,Delhi,LAW-I,http://www.nls.ac.in/
+NLU Hyderabad,3,Hyderabad,LAW-I,http://www.nls.ac.in/
+NUJS Kolkata,4,Kolkata,LAW-I,https://www.nujs.edu/
+IIT Kharagpur,5,Kharagpur,LAW-I,http://www.iitkgp.ernet.in/
+Dubai Medical College for Girls,1,Dubai,MBBS-F,http://www.dmcg.edu/
+Dubai Pharmacy College,2,Dubai,B.Pharma-F,http://www.dpc.edu/
+Etisalat University College,3,Dubai,BE/B.Tech-F,http://www.ece.ac.ae/
+Gulf Medical University,4,Dubai,MBBS-F,http://www.gmu.ac.ae/
+Hamdan Bin Mohammed e-University,5,Dubai,BE/B.Tech-F,http://www.hbmeu.ac.ae/
+Higher Colleges of Technology,6,Dubai,BE/B.Tech-F,http://www.hct.ac.ae/
+United Arab Emirates University,7,UAE,BE/B.Tech-F,http://www.uaeu.ac.ae/
+University Of Dubai,8,UAE,BE/B.Tech-F,http://www.ud.ac.ae/
+University of Jazeera,9,UAE,BE/B.Tech-F,http://www.uojazeera.com/
+University of Sharjah,10,UAE,BE/B.Tech-F,http://www.sharjah.ac.ae/
+University of Wollongong - Dubai Campus,1,UAE,BE/B.Tech-F,http://www.uowdubai.ac.ae/
+Bangladesh Agricultural University,2,Bangladesh,B.Sc-F,http://www.bau.edu.bd/
+Bangladesh Open University,3,Bangladesh,BE/B.Tech-F,http://www.bou.edu.bd/
+Bangladesh University,4,Bangladesh,BE/B.Tech-F,http://www.bu.edu.bd/
+Bangladesh University of Business & Technology,5,Bangladesh,BE/B.Tech-F,http://www.bubt.edu.bd/
+Bangladesh University of Engineering and Technology,6,Bangladesh,BE/B.Tech-F,http://www.buet.ac.bd/
+Bangladesh University of Professionals,7,Bangladesh,BE/B.Tech-F,http://www.bup.edu.bd/
+Australian Catholic University,6,Australia,BE/B.Tech-F,http://www.acu.edu.au/
+Australian Graduate School of Management,7,Australia,MBA-F,http://www.acu.edu.au/
+Australian Institute of Management,8,Australia,MBA-F,http://www.acu.edu.au/
+Bond University,9,Australia,MS-F,http://www.hotelschool.com.au/
+Central Queensland University,10,Australia,BE/B.Tech-F,http://www.bond.edu.au/
+Charles Darwin University,1,Australia,BE/B.Tech-F,http://www.cqu.edu.au/
+Charles Sturt University,2,Australia,MS-F,http://www.cdu.edu.au/
+Curtin University of Technology,8,Australia,MS-F,http://www.csu.edu.au/
+Deakin University,9,Australia,MS-F,http://www.curtin.edu.au/
+Edith Cowan University,10,Australia,MS-F,http://www.deakin.edu.au/
+Flinders University,6,Australia,MS-F,http://www.ecu.edu.au/
+Griffith University,7,Australia,MS-F,http://www.flinders.edu.au/
+James Cook University,8,Australia,BE/B.Tech-F,http://www.gu.edu.au/
+La Trobe University,9,Australia,BE/B.Tech-F,http://www.holmes.edu.au/
+Macquarie University,10,Australia,BE/B.Tech-F,http://www.iota.edu.au/
+Macquarie University - Graduate School of Business,6,Australia,MBA-F,http://www.icthm.edu.au/
+Monash University,7,Australia,MBA-F,http://www.jcu.edu.au/
+Mt Eliza Business School,8,Australia,MBA-F,http://www.latrobe.edu.au/
+Murdoch University,9,Australia,MBA-F,http://www.mq.edu.au/
+Queensland University of Technology,10,Australia,BE/B.Tech-F,http://www.qut.edu.au/
+RMIT University,6,Australia,BE/B.Tech-F,http://www.rmit.edu.au/
+Southern Cross University,7,Australia,BE/B.Tech-F,http://www.scu.edu.au/
+St. Scholasticas College,8,Australia,BE/B.Tech-F,http://www.swin.edu.au/
+Swinburne University of Technology,9,Australia,BE/B.Tech-F,http://www.adelaide.edu.au/
+TAFE,10,Australia,BE/B.Tech-F,http://www.ballarat.edu.au/
+The Australian National University,6,Australia,BE/B.Tech-F,http://www.canberra.edu.au/
+The University of Queensland,7,Australia,BE/B.Tech-F,http://www.divinity.edu.au/
+The University of Western Australia,8,Australia,BE/B.Tech-F,http://www.unimelb.edu.au/
+University of Adelaide,9,Australia,BE/B.Tech-F,http://www.newcastle.edu.au/
+University of Ballarat,10,Australia,MS-F,http://www.une.edu.au/
+University of Canberra,6,Australia,MS-F,http://www.unsw.edu.au/
+University of Melbourne,7,Australia,MS-F,http://www.nd.edu.au/
+University of Melbourne - Melbourne Business School,8,Australia,MBA-F,http://www.uq.edu.au/
+University of New England,9,Australia,MS-F,http://www.unisa.edu.au/
+University of New South Wales,10,Australia,MS-F,http://www.unsw.edu.au/
+University of Newcastle,6,Australia,MS-F,http://www.nd.edu.au/
+University of Notre Dame Australia,7,Australia,MS-F,http://www.uq.edu.au/
+University of South Australia,8,Australia,MS-F,http://www.unisa.edu.au/
+University of Southern Queensland,9,Australia,MS-F,http://www.usq.edu.au/
+University of Sydney,10,Australia,MS-F,http://www.usyd.edu.au/
+University of Tasmania,6,Australia,MS-F,http://www.utas.edu.au/
+"University of Technology, Sydney",7,Australia,MS-F,http://www.uts.edu.au/
+University of Western Sydney,8,Australia,MS-F,http://www.usc.edu.au/
+University of Wollongong,9,Australia,MS-F,http://www.utas.edu.au/
+University of the Sunshine Coast,10,Australia,MS-F,http://www.uts.edu.au/
+Victoria University,6,Australia,MS-F,http://www.usc.edu.au/
+"New York University, Abu Dhabi",12,Abu Dhabi,MBA-F,http://nyuad.nyu.edu/
+Douglas College,11,CA ,MS-F,http://www.douglas.bc.ca/
+Acharya Nagarjuna University,11,India,MBA-I,http://www.nagarjunauniversity.ac.in/
+Acharya Ranga Agricultural University,12,India,BSc-I,http://www.angrau.net/
+Ahmedabad University,12,India,MBA-I,http://www.ahduni.edu.in/
+AISECT University,11,India,BE/B.Tech-I,http://www.aisectuniversity.ac.in/
+"University of Agricultural Sciences, Bangalore",1,India,BSc-I,http://uasbng.kar.nic.in/
+"University of Agricultural Sciences, Dharwad",2,India,BSc-I,http://www.uasd.net/
+University of Burdwan,3,India,BSc-I,http://www.burdwanuniversity.ac.in/
+University of Calcutta,13,India,MBA-I,http://www.caluniv.ac.in/
+University of Calicut,14,India,MBA-I,http://unical.ac.in/
+University of Delhi,15,India,MBA-I,http://www.du.ac.in/
+Ohka Gakuen University,15,Japan,MBBS-F,http://www.ohkagakuen-u.ac.jp/
+Ohtani Women's University,14,Japan,MBBS-F,http://www.ohtani-w.ac.jp/
+Ohu University,16,Japan,MBA-F,http://www.ohu-u.ac.jp/
+Oita Medical University,13,Japan,MBBS-F,http://www.oita-med.ac.jp/
+Oita University,16,Japan,MBA-F,http://www.oita-u.ac.jp/
+Barnard College - Columbia University,18,United States,MS-F,http://www.barnard.edu/
+Barry University,17,United States,MBBS-F,http://www.barry.edu/
+Bartlesville Wesleyan College,17,United States,MS-F,http://www.bwc.edu/
+Barton College,19,United States,MBA-F,http://www.barton.edu/
+Bastyr University,18,United States,BSc-F,http://www.bastyr.edu/
+Bates College,18,United States,LAW-F,http://www.bates.edu/
+Bauder College,17,United States,LAW-F,http://www.bauder.edu/
+Emporia State University,20,United States,MS-F,http://www.emporia.edu/
+Erskine College,20,United States,MBA-F,http://www.erskine.edu/
+Eugene Bible College,20,United States,BSc-F,http://www.ebc.edu/
+Eureka College,20,United States,LAW-F,http://www.eureka.edu/
+Evangel University,20,United States,MBBS-F,http://www.evangel.edu/
+Evergreen State College,20,United States,BE/B.Tech-F,http://www.evergreen.edu/
+Excel College,21,United States,MBA-F,http://www.excelcollege.org/
+Manhattanville College,22,United States,MS-F,http://www.mville.edu/
+Mankato State University,21,United States,MBA-F,http://www.mankato.msus.edu/
+Mansfield University of Pennsylvania,21,United States,BSc-F,http://www.mnsfld.edu/
+Maranatha Baptist Bible College,21,United States,LAW-F,http://www.mbbc.edu/
+Marian College,21,United States,MBBS-F,http://www.marian.edu/
+Marian College of Fond Du Lac,21,United States,BE/B.Tech-F,http://www.mariancoll.edu/
+Marietta College,22,United States,MBA-F,http://www.marietta.edu/
+University of Electronic Science and Technology of China,23,China,MS-F,http://www.uestc.edu.cn/
+University of Hydraulic Electric Engineering,24,China,MS-F,http://www.uheeyc.edu.cn/
+University of International Business and Economics,22,China,MBA-F,http://www.uibe.edu.cn/
+University of Jinan,23,China,MBA-F,http://www.ujn.edu.cn/
+Wuhan University,23,China,MS-F,http://www.whu.edu.cn/
+Wuhan University of Hydraulic and Electric Engineering,24,China,MS-F,http://www.wuhee.edu.cn/
+Wuhan University of Technology,25,China,MS-F,http://www.whut.edu.cn/
+Wuhan University School of Medicine,22,China,MBBS-F,http://wsm.whu.edu.cn/
+Shanghai University,26,China,MS-F,http://www.shu.edu.cn/
+Shanghai University of Engineering Science,27,China,MS-F,http://www.sues.edu.cn/
+Shanghai University of Finance and Economics,24,China,MBA-F,http://www.shufe.edu.cn/
+Shanghai University of Science and Technology,28,China,MS-F,http://www.usst.edu.cn/
+Shanghai University of Traditional Chinese Medicine and Pharmacology,23,China,MBBS-F,http://www.shutcm.edu.cn/
+Limkokwing University College of Creative Technology,29, Malaysia,MS-F,http://www.limkokwing.edu.my/
+Linton University College,22, Malaysia,BE/B.Tech-F,http://www.linton.edu.my/
+Mahsa University College for Health and Medical Science,24, Malaysia,MBBS-F,http://www.mahsa.edu.my/
+Malaysia University of Science and Technology (MUST),30, Malaysia,MS-F,http://www.must.edu.my/
+Management and Science University,25, Malaysia,MBA-F,http://www.msu.edu.my/
+Mara Poly-Tech College,31, Malaysia,MS-F,http://www.kptm.edu.my/
+Melaka City Polytechnic,32, Malaysia,MS-F,http://www.polimelaka.edu.my/
+American University in Dubai,26,Arab Emirates,MBA-F,http://www.aud.edu/
+American University in the Emirates,23,Arab Emirates,BSc-F,http://www.aue.ae/
+American University of Sharjah,22,Arab Emirates,LAW-F,http://www.aus.edu/
+British University in Dubai,22,Arab Emirates,BSc-F,http://www.buid.ac.ae/
+Dubai Medical College for Girls,25,Arab Emirates,MBBS-F,http://www.dmcg.edu/
+Dubai Pharmacy College,26,Arab Emirates,MBBS-F,http://www.dpc.edu/
+Mount Saint Vincent University,23,CA ,BE/B.Tech,http://www.msvu.ca/
+Nicola Valley Institute of Technology,34,CA ,MS-F,http://www.nvit.bc.ca/
+Nipissing University,23,CA ,LAW-F,http://www.nipissingu.ca/
+Northern Alberta Institute of Technology,35,CA ,MS-F,http://www.nait.ca/
+Northern Lights College,23,CA ,BSc-F,http://www.nlc.bc.ca/
+North Island College,24,CA ,LAW-F,http://www.nic.bc.ca/
+Nova Scotia Agricultural College,24,CA ,BSc-F,http://www.nsac.ns.ca/
+"Mahatma Gandhi University, Kerala",6,"Kerala,India",LAW-I,http://www.mgu.ac.in/
+Mahatma Gandhi University Meghalaya ,7,"Meghalaya,India",LAW-I,http://www.mgu.edu.in/
+Mahatma Jyotiba Phule Rohilkhand University Bareilly ,8,"Bareilly,India",LAW-I,http://www.mjpru.ac.in/
+Mahatma Phule Agricultural University,4,India,BSc-I,http://mpkv.mah.nic.in/
+Makanlal Chutur Vedi University,5,India,BSc-I,http://www.mcu.ac.in/
+Nagaland University,6,Nagaland,BSc-I,http://www.nagauniv.org.in/
+Nagpur University,9,Nagpur,LAW-I,http://www.nagpur-university.com/
+Nalanda Open University,10,Bihar,LAW-I,http://www.nalandaopenuniversity.info/
+Narendra Deva University of Agriculture and Technology,7,India,BSc-I,http://www.nduat.nic.in/
+Narsee Monjee Institute of Management Studies,16,Mumbai,MBA-I,http://www.nmims.edu/
+"National Institute of Technology, Calicut",1,Calicut,BE/B.Tech-I,http://www.nitc.ac.in/
+"National Institute of Technology, Durgapur",2,Durgapur,BE/B.Tech-I,http://www.nitdgp.ac.in/
+"National Institute of Technology, Jamshedpur",3,Jamshedpur,BE/B.Tech-I,http://www.nitjsr.ac.in/
+National Institute of Technology Kurukshetra,4,Kurukshetra,BE/B.Tech-I,http://www.nitkkr.net/
+"National Institute of Technology, Rourkela",5,Rourkela,BE/B.Tech-I,http://www.nitrkl.ac.in/
+"National Institute of Technology, Trichy",6,Trichy,BE/B.Tech-I,http://www.nitt.edu/
+"National Institute of Technology, Warangal",7,Warangal,BE/B.Tech-I,http://www.nitw.ernet.in/
+National Law School of India University,11,India,LAW-I,http://www.nls.ac.in/
+Patna University,8,Patna,BE/B.Tech-I,http://puonline.bih.nic.in/
+Periyar University,9,India,BE/B.Tech-I,http://www.spuniv.org/
+Pes University,10,India,BE/B.Tech-I,http://www.pes.edu/
+Pondicherry University,12,Pondicherry,BE/B.Tech-I,http://www.pondiuni.org/
+Postgraduate lnstitute of Medical Education and Research,13,India,MBBS-I,http://www.pgimer.nic.in/
+Potti Sreeramulu Telugu University,14,India,BE/B.Tech-I,http://www.teluguuniversity.ac.in/
+Punjab Engineering College Deemed University,15,Punjab,BE/B.Tech-I,http://www.pec.ac.in/
